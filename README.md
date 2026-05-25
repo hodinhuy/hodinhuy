@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ariesho2903/ariesho2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 E-commerce student
+- 🤖 AI Automation Developer
+- ⚙️ Learning n8n, AI Agents, Automation
+- 🎥 Content Creator on YouTube & TikTok
 
-Here are some ideas to get you started:
+## Tech Stack
+- n8n
+- Python
+- Node.js
+- WordPress
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- AI Automation Workflows
+- HRM System with Lark + n8n
+- Amazon SEO & Ads
+
+## Connect with me
+- YouTube: Huy Thợ Đụng - AI
