@@ -14,46 +14,11 @@
 
 # 🚀 About Me
 
-```javascript
-const huy = {
-    name: "Ho Dinh Huy",
-    location: "Vietnam 🇻🇳",
-    role: "AI Automation Developer",
+I'm an **AI Automation Developer** from Vietnam 🇻🇳, focused on building practical AI systems.
 
-    focus: [
-        "AI Agents",
-        "Business Automation",
-        "OCR",
-        "Document Processing",
-        "Workflow Automation"
-    ],
-
-    stack: [
-        "n8n",
-        "Node.js",
-        "TypeScript",
-        "Python",
-        "Docker",
-        "PostgreSQL",
-        "Redis",
-        "Qdrant"
-    ],
-
-    ai: [
-        "OpenAI",
-        "Google Gemini",
-        "Claude",
-        "LangChain"
-    ],
-
-    currentlyBuilding: [
-        "AI Agent Systems",
-        "Document OCR",
-        "Telegram Bots",
-        "Enterprise Automation"
-    ]
-}
-```
+- 🤖 Building AI agents, OCR pipelines, and enterprise automation
+- ⚙️ Creating reliable workflows with n8n, APIs, and LLMs
+- 🌱 Always learning and turning repetitive work into automated systems
 
 ---
 
@@ -79,42 +44,40 @@ const huy = {
 
 # ⚡ Tech Stack
 
+<div align="center">
+
 ### AI
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,nodejs,ts,docker" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
 ### DevOps
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx" />
 </p>
 
 ### Tools
 
-- n8n
-- LangChain
-- Qdrant
-- PostgreSQL
-- Redis
-- Docker
-- Cloudflare
-- Telegram Bot API
-- Google Workspace API
-- Lark API
+<p align="center">
+n8n &bull; LangChain &bull; Qdrant &bull; PostgreSQL &bull; Redis<br>
+Docker &bull; Cloudflare &bull; Telegram Bot API &bull; Google Workspace API &bull; Lark API
+</p>
+
+</div>
 
 ---
 
