@@ -26,15 +26,15 @@ I'm an **AI Automation Developer** from Vietnam 🇻🇳, focused on building pr
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hodinhhuy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://n8n.io/creators/hodinhhuy/">
+<img src="https://img.shields.io/badge/n8n-Creator-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hodinhuy.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
@@ -85,15 +85,15 @@ Docker &bull; Cloudflare &bull; Telegram Bot API &bull; Google Workspace API &bu
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hodinhuy&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hodinhhuy&theme=transparent"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodinhhuy&layout=compact&theme=transparent"/>
 
 </p>
 
@@ -118,6 +118,6 @@ Docker &bull; Cloudflare &bull; Telegram Bot API &bull; Google Workspace API &bu
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=hodinhhuy&style=for-the-badge)
 
 </div>
