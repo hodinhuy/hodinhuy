@@ -83,6 +83,8 @@ Docker &bull; Cloudflare &bull; Telegram Bot API &bull; Google Workspace API &bu
 
 # 📊 GitHub Stats
 
+<!-- Legacy cards hidden because the image endpoints are unavailable.
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hodinhuy&show_icons=true&theme=transparent"/>
@@ -95,6 +97,14 @@ Docker &bull; Cloudflare &bull; Telegram Bot API &bull; Google Workspace API &bu
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodinhhuy&layout=compact&theme=transparent"/>
 
+</p>
+
+---
+
+-->
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hodinhhuy&theme=transparent" />
 </p>
 
 ---
