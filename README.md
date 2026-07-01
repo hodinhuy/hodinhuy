@@ -2,132 +2,110 @@
 
 # Hi 👋, I'm Hồ Đình Huy
 
-### AI Automation Developer • n8n • AI Agents • OCR • LLM Integration
+### AI Automation Developer
+
+Workflow Automation • AI Agents • OCR • LLM Integrations
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2500&color=2F81F7&center=true&vCenter=true&width=850&lines=Building+AI+Automation+Systems;n8n+Developer;OCR+%2B+LLM+Workflows;Google+Gemini+%7C+OpenAI+%7C+Telegram;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=2500&color=2F81F7&center=true&vCenter=true&width=760&lines=Building+practical+AI+automation+systems;Creating+workflows+with+n8n;Connecting+AI%2C+APIs%2C+and+business+processes" alt="Typing introduction" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm an **AI Automation Developer** from Vietnam 🇻🇳, focused on building practical AI systems.
+I'm an **AI Automation Developer** based in Vietnam 🇻🇳. I build practical automation systems that connect AI models, APIs, documents, and business workflows.
 
-- 🤖 Building AI agents, OCR pipelines, and enterprise automation
-- ⚙️ Creating reliable workflows with n8n, APIs, and LLMs
-- 🌱 Always learning and turning repetitive work into automated systems
+- 🤖 Build AI agents and LLM-powered workflow automations
+- 📄 Develop OCR and document-processing pipelines
+- 🔌 Integrate third-party APIs and business tools with n8n
+- 🛠️ Work with self-hosted AI and automation infrastructure
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/hodinhhuy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://n8n.io/creators/hodinhhuy/">
-<img src="https://img.shields.io/badge/n8n-Creator-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-</a>
-
-<a href="mailto:hodinhuy.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
+<a href="https://github.com/hodinhhuy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://n8n.io/creators/hodinhhuy/"><img src="https://img.shields.io/badge/n8n-Creator-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Creator" /></a>
+<a href="mailto:hodinhuy.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### AI
+### Automation
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,docker" />
-</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+### Languages & Runtime
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Database
+### Databases & Vector Stores
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
-### DevOps
+### Infrastructure
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Tools
+### AI & Integrations
 
-<p align="center">
-n8n &bull; LangChain &bull; Qdrant &bull; PostgreSQL &bull; Redis<br>
-Docker &bull; Cloudflare &bull; Telegram Bot API &bull; Google Workspace API &bull; Lark API
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Lark](https://img.shields.io/badge/Lark_API-3370FF?style=flat-square&logo=lark&logoColor=white)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
-
-<!-- Legacy cards hidden because the image endpoints are unavailable.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hodinhuy&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hodinhhuy&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodinhhuy&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
--->
-
-<p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hodinhhuy&theme=transparent" />
-</p>
-
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🤖 AI Agents
-- ⚙️ Enterprise Automation
-- 📄 OCR Document Processing
+- ⚙️ Workflow Automation
+- 📄 OCR and Document Processing
 - 🧠 LLM Integration
 - 🔄 n8n Custom Nodes
-- 🚀 Self-hosted AI Infrastructure
+- 🛠️ Self-hosted AI Infrastructure
 
 ---
 
-# 💡 Favorite Quote
+## 📊 GitHub Activity
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hodinhhuy&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 💡 Favorite Quote
 
 > "Automate repetitive work. Spend time solving problems that matter."
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=hodinhhuy&style=for-the-badge)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hodinhhuy&style=for-the-badge" alt="Profile views" />
+</p>
